@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.covid-cases{
+  width: 600px;
+  text-align: center;
+  justify-content: center;
+  margin: 0 auto;
+  border: 5px solid black;
+  border-radius: 15px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+}
+
+.covid-cases .main{
+  color: green !important;
+}
+
+.covid-cases h1{
+  color: rgb(80, 80, 88);
+}
